@@ -1,0 +1,9 @@
+Definition: Triangular Number
+A triangular number T_n is a number of the form n(n+1)/2.
+
+Definition: Oblong Number
+An oblong number O_n is a number of the form n(n+1).
+
+Theorem: Oblong Numbers are Double Triangular Numbers
+Every oblong number is twice a triangular number.
+Depends: Oblong Number, Triangular Number
