@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/core/analysis.ts","./src/core/examples.ts","./src/core/exporters.ts","./src/core/graph.ts","./src/core/index.ts","./src/core/leanexport.ts","./src/core/linter.ts","./src/core/parser.ts","./src/core/types.ts","./src/ui/app.tsx","./src/ui/knowledgegraph.tsx"],"version":"5.9.3"}
